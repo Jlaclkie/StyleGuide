@@ -1,0 +1,133 @@
+html, body {
+    display: block;
+    font-family: Helvetica, sans-serif;
+    margin: 30px 50px;
+}
+
+div {
+    display: block;
+}
+
+.style-container {
+    border: 1px solid #000000;
+}
+
+.style-panel {
+    margin: 10px;
+}
+
+h1 {
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+    font-size: 26px;
+}
+
+h2 {
+    font-weight: 500;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 18px;
+}
+
+p {
+    font-weight: 400;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 14px;
+}
+
+li {
+    margin: 10px;
+}
+
+.font-container {
+    border: 1px solid #000000;
+}
+
+.color-panel {
+    margin: 0px -5px 0px 0px;
+    text-align: center;
+}
+
+.peach {
+    background-color: #F9DBBD;
+    box-shadow: #F9DBBD 1px;
+    box-sizing: border-box;
+    height: 500px;
+    width: 20%;
+    display: inline-block;
+}
+
+.pink {
+    background-color: #FFA5AB;
+    box-shadow: #FFA5AB 1px;
+    box-sizing: border-box;
+    height: 500px;
+    width: 20%;
+    display: inline-block;
+}
+
+.blush {
+    background-color: #DA627D;
+    box-shadow: #DA627D 1px;
+    color: white;
+    box-sizing: border-box;
+    height: 500px;
+    width: 20%;
+    display: inline-block;
+}
+
+.maroon {
+    background-color: #A53860;
+    box-shadow: #a53860 1px;
+    color: white;
+    box-sizing: border-box;
+    height: 500px;
+    width: 20%;
+    display: inline-block;
+}
+
+.sienna {
+    background-color: #450920;
+    box-shadow: #450920 1px;
+    color: white;
+    box-sizing: border-box;
+    height: 500px;
+    width: 20.5%;
+    display: inline-block; 
+}
+
+.color-container {
+    border: 1px solid #000000;
+}
+
+.font-panel {
+    margin: 10px;
+    text-align: center;
+}
+
+.font-name {
+    text-decoration: underline;
+}
+
+.oxygen {
+    font-family: 'Oxygen', sans-serif;
+}
+
+.outfit {
+    font-family: 'Outfit', sans-serif;
+}
+
+.red {
+    font-family: 'Red Hat Mono', monospace;
+}
+
+.light {
+    font-weight: 300;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+}
